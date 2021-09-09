@@ -1,4 +1,4 @@
-# Implicit-Sentiment-Analysis-with-Event-Centered-Text-Representation
+# Implicit-Sentiment-Analysis-with-Event-Centered-Text-Representation (EMNLP 2021)
 
 Abstract
 
